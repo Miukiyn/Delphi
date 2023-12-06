@@ -4,7 +4,8 @@ Abaixo voce se informa doq se trata cada pasta desse repositorio
 
 ## 1. Interface e Logica dll
 
-- **[Codigo](https://github.com/Miukiyn/Delphi-Teste/blob/main/Par%20Ou%20Impar/Par%20ou%20Impar/Parouimpar.pas):** Esta pasta contem o codigo do program feito em pascal, onde foi trabalhado a interface do programa e a logica de utilizacao da dll.
+- **[Codigo - Logica](https://github.com/Miukiyn/Delphi-Teste/blob/main/Par%20Ou%20Impar/Par%20ou%20Impar/Parouimpar.pas):** Esta pasta contem o codigo do program feito em pascal, onde foi trabalhado a interface do programa e a logica de utilizacao da dll.
+- [Interface](https://github.com/Miukiyn/Delphi-Teste/blob/main/Par%20Ou%20Impar/Par%20ou%20Impar/Parouimpar.dfm)
 
 ## 2. Codigo em C e criacao da dll
 
