@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/12/06 15:08:12.744,=E:\Program Files\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/06 15:09:01.880,E:\Program Files\Embarcadero\Projects\Par ou Impar\Parouimpar.pas=E:\Program Files\Embarcadero\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/06 15:09:01.880,E:\Program Files\Embarcadero\Projects\Par ou Impar\Parouimpar.dfm=E:\Program Files\Embarcadero\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/12/06 15:10:20.294,E:\Program Files\Embarcadero\Projects\Par ou Impar\Project1.dproj=E:\Program Files\Embarcadero\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/12/06 15:16:00.519,E:\Program Files\Embarcadero\Projects\Par ou Impar\Par.dproj=E:\Program Files\Embarcadero\Projects\Par ou Impar\Project1.dproj</Transaction>
+    <Transaction>2023/12/06 15:16:33.868,E:\Program Files\Embarcadero\Projects\Par ou Impar\NumeroParOuImpar.dproj=E:\Program Files\Embarcadero\Projects\Par ou Impar\Par.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

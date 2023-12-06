@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/12/06 15:10:22.244,E:\Program Files\Embarcadero\Projects\Par ou Impar\ProjectGroup1.groupproj=E:\Program Files\Embarcadero\Projects\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2023/12/06 15:15:12.652,E:\Program Files\Embarcadero\Projects\Par ou Impar\ProjetoParOuImpar.groupproj=E:\Program Files\Embarcadero\Projects\Par ou Impar\ProjectGroup1.groupproj</Transaction>
+  </Transactions>
+  <Default.Personality>
+    <Projects ActiveProject="E:\Program Files\Embarcadero\Projects\Par ou Impar\NumeroParOuImpar.dproj"/>
+  </Default.Personality>
+</BorlandProject>
