@@ -12,6 +12,6 @@ Abaixo voce se informa doq se trata cada pasta desse repositorio
 
 ## 3. Pasta do Executavel
 
-- **[Executavel](https://github.com/Miukiyn/Delphi-Teste/tree/main/NotepadOpen/NotepedOpenEXE)** Por fim temos a pasta onde eh gerado o executavel do programa e tambem encontrado tanto a dll quanto a dcu (Unidade Compilada do Delphi).
+- **[Executavel](https://github.com/Miukiyn/Delphi-Teste/tree/main/NotepadOpen/NotepedOpenEXE):** Por fim temos a pasta onde eh gerado o executavel do programa e tambem encontrado tanto a dll quanto a dcu (Unidade Compilada do Delphi).
 
 
