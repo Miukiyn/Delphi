@@ -18,9 +18,3 @@ __declspec(dllexport) int lerNumero(int numero) {
         return -1;
     }
 }
-
-
-
-__declspec(dllexport) void liberarMemoria(char* ptr) {
-    free(ptr);
-}
