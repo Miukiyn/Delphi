@@ -14,3 +14,13 @@ Abaixo voce se informa doq se trata cada pasta desse repositorio
 ## 3. Pasta do Executavel
 
 - **[Executavel](https://github.com/Miukiyn/Delphi-Teste/tree/main/Par%20Ou%20Impar/Par%20ou%20Impar/Win32/Debug):** Por fim temos a pasta onde eh gerado o executavel do programa e tambem encontrado tanto a dll quanto a dcu (Unidade Compilada do Delphi).
+
+
+# Algumas Imagens do programa executado
+
+![Home](https://github.com/Miukiyn/Delphi-Teste/blob/main/Par%20Ou%20Impar/Imagens%20do%20Programa/home.png)
+
+![resposta-1](https://github.com/Miukiyn/Delphi-Teste/blob/main/Par%20Ou%20Impar/Imagens%20do%20Programa/resposta-1.png)
+
+![resposta-2](https://github.com/Miukiyn/Delphi-Teste/blob/main/Par%20Ou%20Impar/Imagens%20do%20Programa/resposta-2.png)
+
